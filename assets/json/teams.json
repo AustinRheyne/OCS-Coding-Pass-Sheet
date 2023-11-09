@@ -1,0 +1,16 @@
+{
+    "teams" : [
+        {
+            "name" : "Monty Python",
+            "questions" : [0,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name" : "Large Java Coffee",
+            "questions" : [0,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name" : "Test team",
+            "questions" : [0,0,0,0,0,0,0,0,0]
+        }
+    ]
+}
